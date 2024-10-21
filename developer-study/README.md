@@ -4,5 +4,5 @@ This dictionary contains materials provided to participants of the developer stu
 
 * Introduction: An overview of the developer study can be found in the file (file:
     `./developer-study-introduction.pdf`)
-* Answer Submission: Participants can submit their responses using the spreadsheet located at(file: `./answers.xslx`)
+* Answer Submission: Participants can submit their responses using the spreadsheet located at(file: `./answers.ods`)
 * Task Files: The tasks outlined in the introduction are included in the folders(files: `./task-{1,2}/`)
